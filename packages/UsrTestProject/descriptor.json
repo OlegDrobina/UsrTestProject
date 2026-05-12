@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "11b28ea6-3e2a-4d31-bf90-9e12f8e4ae94",
+    "Name": "UsrTestProject",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrTestProject.csproj",
+    "DependsOn": [
+      {
+        "UId": "70ff4e5f-d0af-6a9b-e063-f7171aac2c42",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIPlatform",
+        "Type": 1
+      }
+    ]
+  }
+}

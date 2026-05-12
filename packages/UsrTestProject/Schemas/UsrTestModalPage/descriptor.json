@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2aaf853f-2d02-4a71-b183-b9d4b654ce89",
+    "Name": "UsrTestModalPage",
+    "ModifiedOnUtc": "\/Date(1778602463000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Test modal page",
+    "DependsOn": []
+  }
+}
