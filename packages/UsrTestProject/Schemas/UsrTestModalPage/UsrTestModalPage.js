@@ -52,7 +52,7 @@ define("UsrTestModalPage", /**SCHEMA_DEPS*/ [] /**SCHEMA_DEPS*/, function () /**
       {
         request: "crt.HandleViewModelInitRequest",
         handler: async (request, next) => {
-          console.log("Hello world");
+          console.log("Hello world 1");
           return await next?.handle(request);
         },
       },
