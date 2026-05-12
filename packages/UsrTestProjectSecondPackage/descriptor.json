@@ -1,0 +1,11 @@
+﻿{
+  "Descriptor": {
+    "UId": "1fef550a-3fe0-6212-7f46-edabcdb842a6",
+    "Name": "UsrTestProjectSecondPackage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1778604897000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrTestProjectSecondPackage.csproj",
+    "DependsOn": []
+  }
+}

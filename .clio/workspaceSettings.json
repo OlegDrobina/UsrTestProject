@@ -1,5 +1,5 @@
 {
-  "Packages": ["UsrTestProject"],
+  "Packages": ["UsrTestProject", "UsrTestProjectSecondPackage"],
   "ApplicationVersion": "8.1.3",
   "IgnorePackages": [],
   "ExternalPackages": []

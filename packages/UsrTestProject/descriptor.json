@@ -1,8 +1,10 @@
 ﻿{
   "Descriptor": {
     "UId": "11b28ea6-3e2a-4d31-bf90-9e12f8e4ae94",
+    "PackageVersion": "1.0.1",
     "Name": "UsrTestProject",
     "Type": 1,
+    "ModifiedOnUtc": "\/Date(1778604101000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrTestProject.csproj",
     "DependsOn": [
